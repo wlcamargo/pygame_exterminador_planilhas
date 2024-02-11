@@ -1,5 +1,8 @@
 # Game - Kill Excel
 
+![game](https://github.com/wlcamargo/pygame_exterminador_planilhas/blob/master/images/game.png)
+
+
 ## Escope
 O Objetivo do jogo é não deixar o Excel do User chegar até a produção. 
 
